@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 
 const App = () => {
-  return null;
+  return <h1>こんにちは</h1>;
 };
 
 ReactDom.render(
